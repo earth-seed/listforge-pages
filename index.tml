@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>App Policies</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        nav {
+            margin-bottom: 30px;
+            padding: 10px 0;
+            border-bottom: 1px solid #eee;
+        }
+        nav a {
+            margin-right: 20px;
+            color: #0066cc;
+            text-decoration: none;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="privacy-policy.html">Privacy Policy</a>
+        <!-- Add more navigation links as needed -->
+    </nav>
+
+    <h1>Welcome to [Your App Name] Policies</h1>
+    <p>Please select a policy from the navigation menu above.</p>
+</body>
+</html>
